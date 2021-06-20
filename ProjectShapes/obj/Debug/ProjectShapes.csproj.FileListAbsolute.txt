@@ -1,0 +1,17 @@
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.exe.config
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.exe
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\bin\Debug\ProjectShapes.pdb
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csprojAssemblyReference.cache
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csproj.GenerateResource.cache
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csproj.CoreCompileInputs.cache
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.exe
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.pdb
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\bin\Debug\LibraryForShapes.dll
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\bin\Debug\LibraryForShapes.pdb
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.FormShapes.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.FrmChangeCircle.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.FrmChangeRect.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.FrmChangeTriangle.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.FrmSearchColor.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\Borimechkov.ProjectShapes.Properties.Resources.resources
+C:\Users\martokomp\source\repos\ProjectShapes\ProjectShapes\obj\Debug\ProjectShapes.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\bin\Debug\LibraryForShapes.dll
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\bin\Debug\LibraryForShapes.pdb
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\obj\Debug\LibraryForShapes.csprojAssemblyReference.cache
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\obj\Debug\LibraryForShapes.csproj.CoreCompileInputs.cache
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\obj\Debug\LibraryForShapes.dll
+C:\Users\martokomp\source\repos\ProjectShapes\LibraryForShapes\obj\Debug\LibraryForShapes.pdb
