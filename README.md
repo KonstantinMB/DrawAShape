@@ -13,9 +13,7 @@ While developing this university project, I learned and implemented these concep
 
 Next up are some pictures and GIFs of my project and how it basically works:
 
-First off, this is how the app looks when you open it
-/
-
+First off, when you open the app it will be blank with some buttons/text here and there.
 - On the right-hand side you need to choose which shape you want to draw!
 - In the upper-left corner, there is an 'Edit' strip, which opens a menu with different functions that the program can do.
 - In the bottom-left corner, the total area of the shapes, drawn on the graphic is shown.
@@ -23,11 +21,14 @@ First off, this is how the app looks when you open it
 Here, you can see how the shapes are actually drawn. By dragging your mouse up/right/down/left.
 
 The rectangle/square:
+
 ![first_gif_vol1](https://user-images.githubusercontent.com/76811860/123093597-8d5cf700-d434-11eb-88cf-8cefd1de91ff.gif)
 
 The triangle:
+
 ![first_gif_vol2](https://user-images.githubusercontent.com/76811860/123093801-c5643a00-d434-11eb-8afb-4ae460d599a8.gif)
 
 The circle:
+
 ![first_gif_vol3](https://user-images.githubusercontent.com/76811860/123093908-ec227080-d434-11eb-9ca8-21520593868c.gif)
 
