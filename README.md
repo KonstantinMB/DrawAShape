@@ -21,11 +21,13 @@ First off, this is how the app looks when you open it
 - In the bottom-left corner, the total area of the shapes, drawn on the graphic is shown.
 
 Here, you can see how the shapes are actually drawn. By dragging your mouse up/right/down/left.
-The rectangle/square:
 
+The rectangle/square:
 ![first_gif_vol1](https://user-images.githubusercontent.com/76811860/123093597-8d5cf700-d434-11eb-88cf-8cefd1de91ff.gif)
 
 The triangle:
-/
+![first_gif_vol2](https://user-images.githubusercontent.com/76811860/123093801-c5643a00-d434-11eb-8afb-4ae460d599a8.gif)
+
 The circle:
+
 /
