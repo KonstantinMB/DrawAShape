@@ -22,7 +22,9 @@ First off, this is how the app looks when you open it
 
 Here, you can see how the shapes are actually drawn. By dragging your mouse up/right/down/left.
 The rectangle/square:
-/
+
+![first_gif_vol1](https://user-images.githubusercontent.com/76811860/123093597-8d5cf700-d434-11eb-88cf-8cefd1de91ff.gif)
+
 The triangle:
 /
 The circle:
