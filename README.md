@@ -10,6 +10,8 @@ While developing this university project, I learned and implemented these concep
 5. Working with (X,Y) Point locations on the app
 6. Serialization and how to open & save files on your machine
 7. Working with libraries
+8. Error handling
+9. Debugging 
 
 Next up are some pictures and GIFs of my project and how it basically works:
 
@@ -32,3 +34,25 @@ The circle:
 
 ![first_gif_vol3](https://user-images.githubusercontent.com/76811860/123093908-ec227080-d434-11eb-9ca8-21520593868c.gif)
 
+
+Furthermore, the beauty of this program comes when we look at its functionalities!
+
+1) You are able to tap on a shape and drag it wherever you want:
+- if you drag it outside the window and leave it there, the Total Area will exclude this shape
+- if you drag the triangle outside the window, an error window will pop, telling ou that you cannot do that.
+
+2) When you double click on a certain shape, new windows pops up and it allows you to change the shapes size & color. It also shows its parameter and area:
+- if you change the color to white, an error will be trown because if the shape is white, it will be basically invisible :)
+- changing the area & parameter isn't available
+- if you don't type a number in the size sections (width, height, radius..) OR you type negative number, the program will trow an user friendly error too!
+
+3) If you click on the Rectangle radio button and drag your mouse with its left key, you will only make the frame of the rectangle and with that select multiple shapes at once!
+
+4) The 'Edit' button will drop a menu (as you can see from the gif) and on it you will have these options:
+- you can delete the selected shapes
+- you can see the property of the selected shape
+- search shapes by color
+- 'Save' allows you to save the current file on your machine
+- 'Open' opens a saved file on the app (if you try and open file of other type, the program will throw an error)
+
+5) When you make a shape on top of another shape OR you drag an existing shape onto another one, the Total Area of all shapes(shown in the bottom left) will remove the area of the overriden bit of the shapes.
