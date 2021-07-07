@@ -79,4 +79,4 @@ Furthermore, the beauty of this program comes when we look at its functionalitie
 
 ![second_vol5](https://user-images.githubusercontent.com/76811860/123099833-37d81880-d43b-11eb-9677-78fa76056aad.gif)
 
-I hope you enjoyed this little project snippet and if you have any question, feel free to ask!
+I hope you enjoyed this little project snippet and if you have any questions, feel free to ask!
